@@ -11,7 +11,11 @@
 
 ## **Repository Description:**
 
-This respository was created by Ricardo Gonzalez, a graduate student pursuing a Professional Science Master's degree in Space Studies at Rice University. It contains a collection of machine learning algorithms for the industiral engineering course INDE 577 (Data Sciecnce and Machine Learning). In this repository, there will be sub-repositories named by an algorithm (e.g., perceptron), and each contains a .ipynb file which demonstrates and implements the algorithm learned throughtout the semester, a ReadME file, and sub-repositories of the respective dataset(s) and image(s)
+This respository was created by Ricardo Gonzalez, a graduate student pursuing a Professional Science Master's degree in Space Studies at Rice University. It contains a collection of machine learning algorithms for the industiral engineering course INDE 577 (Data Sciecnce and Machine Learning). In this repository, there will be three main sub-repositiories which cover the different types of machine learning including: 
+- Supervised Machine Learning
+- Unsupervised Machine Learning along with
+- Optimization
+Within these three main sub-repositories, there will be sub-repositories named by an algorithm (e.g., perceptron, Linear Regression, etc.), and each contains a .ipynb file which demonstrates and implements the algorithm learned throughtout the semester, a ReadME file, and sub-repositories of the respective dataset(s) and image(s)
 
 
 ## **Programming Tools and Libraries:**
