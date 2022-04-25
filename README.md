@@ -37,10 +37,13 @@ k-Nearest Neighbors
 Decision/ Regression Trees
 Ensemble Learning
 
+
 Unsupervised Learning:
 
 k-Means Clustering
 Principle Component Analysis
+
+
 Reinforcement Learning:
 
 Tabular versus Deep Learning Methods
