@@ -15,7 +15,7 @@ This respository was created by Ricardo Gonzalez, a graduate student pursuing a 
 - Supervised Machine Learning
 - Unsupervised Machine Learning
 
-Within these two main sub-repositories, there will be other sub-repositories named by an algorithm (e.g., Perceptron, Linear Regression, etc.), and each contains a .pynb file which demonstrates and implements the algorithm(s) learned throughtout the semester, a README file, and sub-repositories of the respective dataset(s) and image(s).
+Within these two main sub-repositories, there will be other sub-repositories named by an algorithm (e.g., Perceptron, Linear Regression, etc.), and each contains a .ipynb file which demonstrates and implements the algorithm(s) learned throughtout the semester, a README file, and sub-repositories of the respective dataset(s) and image(s).
 
 
 ## **Programming Tools and Libraries:**
