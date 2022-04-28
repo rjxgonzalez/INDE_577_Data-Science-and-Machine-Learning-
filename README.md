@@ -30,16 +30,16 @@ Within these two main sub-repositories, there will be other sub-repositories nam
 
 **Supervised Learning:**
 
-- Classification
+- Classification:
     - Perceptron 
     - Logistic Regression
 
-- Regression
+- Regression:
     - Linear Regression
     - Random Forests 
     - Neural Network
 
-- Non-parametric ML Algorithms  
+- Non-parametric ML Algorithms: 
     - k-Nearest Neighbors
     - Decision Tree
     - Ensemble Learning
