@@ -30,21 +30,21 @@ Within these two main sub-repositories, there will be other sub-repositories nam
 
 **Supervised Learning:**
 
-- Model Building and Error Analysis
-- Linear Regression
-- Gradient Descent
-- Logistic Regression
-- Neural Nets
-- Support Vector Machines
-- k-Nearest Neighbors
-- Decision/ Regression Trees
-- Ensemble Learning
+- Classification
+    - Perceptron 
+    - Logistic Regression
+
+- Regression
+    - Linear Regression
+    - Random Forests 
+    - Neural Network
+
+- Non-parametric ML Algorithms  
+    - k-Nearest Neighbors
+    - Decision Tree
+    - Ensemble Learning
 
 
 **Unsupervised Learning:**
 - k-Means Clustering
-- Principle Component Analysis
-
-**Reinforcement Learning:**
-- Tabular versus Deep Learning Methods
-- Programming Language:
+- Principle Component Analysis 
