@@ -1,4 +1,4 @@
-long_hair,forehead_width_cm,forehead_height_cm,nose_wide,nose_long,lips_thin,distance_nose_to_lip_long,gender
+long_hair,Forehead Width (cm),Forehead Height (cm),nose_wide,nose_long,lips_thin,distance_nose_to_lip_long,Gender
 1,11.8,6.1,1,0,1,1,Male
 0,14,5.4,0,0,1,0,Female
 0,11.8,6.3,1,1,1,1,Male
