@@ -5,7 +5,7 @@ Classification is defined as the process of recognition, understanding, and grou
 Classification algorithms used in machine learning utilize input training data for the purpose of predicting the likelihood or probability that the data that follows will fall into one of the predetermined categories. One of the most common applications of classification is for filtering emails into “spam” or “non-spam”. 
 
 Typical classification algorithms include:
-- The perceptron 
+- The Perceptron 
 - Logisitic Regression. 
 
 Source: https://www.simplilearn.com/tutorials/machine-learning-tutorial/classification-in-machine-learning#what_is_classification
