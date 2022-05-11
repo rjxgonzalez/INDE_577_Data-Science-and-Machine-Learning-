@@ -6,6 +6,4 @@ Classification algorithms used in machine learning utilize input training data f
 
 Typical classification algorithms include the perceptron and logisitic regression. 
 
-Source: 
-
-https://www.simplilearn.com/tutorials/machine-learning-tutorial/classification-in-machine-learning#what_is_classification
+Source: https://www.simplilearn.com/tutorials/machine-learning-tutorial/classification-in-machine-learning#what_is_classification
