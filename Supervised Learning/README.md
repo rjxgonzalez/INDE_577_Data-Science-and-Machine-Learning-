@@ -12,3 +12,7 @@ Supervised machine learning can be split into two types of problems, classificat
     - Regression invesitgates the relationship between independent variables (features) and a dependent variable (outcome).  
 
 However, it is important to note non-parametric algorithms. These algorithms do not make strong assumptions about the form of the mapping fucntions. They do not accept a specific form of mapping function between input and output data as true. Moreover, non-parametic models can be used in either classification or regression problems. 
+
+
+Source: 
+https://www.ibm.com/cloud/learn/supervised-learning
