@@ -10,6 +10,4 @@ Typical regression algorithms include
 - Neural Networks
 - Random Forests
 
-Source: 
-
-https://www.seldon.io/machine-learning-regression-explained#:~:text=Regression%20is%20a%20technique%20for,used%20to%20predict%20continuous%20outcomes.
+Source: https://www.seldon.io/machine-learning-regression-explained#:~:text=Regression%20is%20a%20technique%20for,used%20to%20predict%20continuous%20outcomes.
