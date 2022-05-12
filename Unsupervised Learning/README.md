@@ -15,7 +15,8 @@ Common types of unsupervised learning include:
 - K-Means Clustering
 - Principle Component Analysis (PCA)
 
-Sources: https://www.geeksforgeeks.org/supervised-unsupervised-learning/
+Sources: 
+https://www.geeksforgeeks.org/supervised-unsupervised-learning/
 
 https://www.ibm.com/cloud/learn/unsupervised-learning
     
